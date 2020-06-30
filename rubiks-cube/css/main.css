@@ -15,8 +15,8 @@ canvas {
 
 #ribbon {
     position: fixed;
-    right: 20px;
-    bottom: 20px;
+    right: 35px;
+    bottom: 30px;
     font-family: 'Open Sans', sans-serif;
     user-select: none;
 }
